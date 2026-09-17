@@ -1,1 +1,0 @@
-This directory is for any Python course projects I upload from Codeacademy. Each folder here is a different course using Python. Within each I included different topics and projects I completed to demonstrate that knowledge
